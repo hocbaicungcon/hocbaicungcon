@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Dart/Flutter, Python, Mobile Development
 - 📫 How to reach me 
   - [O2 Education](https://o2.edu.vn)
-  - [DUmmy Fresher](https://dummyfresher.com)
+  - [Dummy Fresher](https://dummyfresher.com)
   - [MiniSmart](https://minismart.vn/)
 
 <!---
